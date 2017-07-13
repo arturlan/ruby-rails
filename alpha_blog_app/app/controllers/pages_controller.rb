@@ -1,4 +1,4 @@
-class WelcomeController < ApplicationController
+class PagesController < ApplicationController
 
   def home
     #code
@@ -7,5 +7,5 @@ class WelcomeController < ApplicationController
   def about
     #code
   end
-  
+
 end
